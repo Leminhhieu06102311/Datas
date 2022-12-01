@@ -1,0 +1,47 @@
+{
+    "Plan":[
+        {
+            "Name Plan": "Ý tưởng làm cv",
+            "Tham khảo": [
+                "1. tham khảo button của web https://preview.themeforest.net/item/wokiee-multipurpose-shopify-theme/full_screen_preview/22559417?_ga=2.1476721.1544676790.1667699336-925393018.1656574034",
+                "2. tham khảo cách chia layout của web này phần product https://preview.themeforest.net/item/qwery-multipurpose-business-wordpress-theme/full_screen_preview/29678687?_ga=2.39250147.1544676790.1667699336-925393018.1656574034"
+            ],
+            "Khắc phục lý do": [
+                "1. tải trang chậm ",
+                "2. không phản hồi",
+                "3. Đường dẫn không tốt",
+                "4. thiết kế lỗi thời",
+                "5. nội dung kém",
+                "6. âm thanh video không hợp lý",
+                "7. Hình ảnh xấu",
+                "8. màu sắc xấu",
+                "9. kiểu chữ video đồ họa thôgn tin biểu đồ animation xấu"
+
+            ],
+            "Thành phần trong website": [
+                "hover tham khảo trang dribbble",
+                {
+                    "Màu chủ đạo website": ["rgba(239, 108, 65, 1)", "#0fa6dc", "rgba(172, 126, 244, 1)"]
+                },
+                "Font Poppins , Avenir"
+            ]
+        },
+        {
+            "Name Plan": "Quản lí tài chính cá nhân",
+            "Cách làm": [
+                "1. tạo ngân sách tài chính cá nhân cho hàng tháng ví dụ: như tiền tiết kiệm tiền sinh hoạt, phần còn lại đào tạo du lịch và mua sắm",
+                "2. lên danh sách những thứ cần mua trước khi đi mau một thứ gì đó những cái nào không nhất thiết thì loại  bỏ",
+                "3. Đầu tư thời gian vào sở thích thói quen dài hạn : thay vì đi mua sắm hãy đăng kí các chương trình học nâng cao kĩ năng , hoặc đi ăn ở ngoài hãy lên thực đơn và nấu ăn ở nha",
+                "4. ưu tiền trả nợ xong bắt đầu đầu tư theo như trong sách người giàu có nhất thành babylon 60% thu nhập cho nhu cầu thiết yếu hằng ngày như xăng xe ăn uống...,20% dùng cho đầu tư và tiết kiệm, 20% dùng cho những nhu cầu thêm cần có"
+            ]
+            
+        },
+        {
+            "Name Plan": "Đầu tư dài hạn",
+            "Cách làm": [
+                "./assets/excel/Đầu tư dài hạn.xlsx"
+            ]
+            
+        }
+    ]
+}
