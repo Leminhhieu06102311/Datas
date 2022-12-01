@@ -1,5 +1,3 @@
-# File lưu trữ dữ liêu cá nhân
+# File lưu trữ dữ User And Password
 - Tài khoản mật khẩu
-- Tài liệu học tập
-- Dữ liệu code
-- 
+
